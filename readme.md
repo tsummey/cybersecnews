@@ -41,3 +41,5 @@ To run: 'python -m streamlit run .\rss.py'
 ### 7. **Extensibility and Modularity**
    - Easily add new RSS sources or modify the keyword list to tailor the app to your needs.
    - The modular design simplifies updates and maintenance.
+
+![Alt text](screenshot.png)

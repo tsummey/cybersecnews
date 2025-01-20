@@ -1,7 +1,7 @@
 # Cybersecurity News #
 This application fetches news from 18 credible cybersecurity sources and stores the information in a file called cybersecnews.json. A dashboard is created and presented by Streamlit in your browser. It's intended to provide you quick access to current cybersecurity events.
 
-<span style="color: red;">## These sources have daily limits, try not to run the application more than once daily. ##</span>
+## These sources have daily limits, try not to run the application more than once daily. ##
 
 To run: 'python -m streamlit run .\rss.py'
 
